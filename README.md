@@ -24,6 +24,8 @@ Key dependencies are declared in `package.json` and managed via npm.
 ## Running The Test on both Firefox and Chrome
 - npm test
 
+<img width="1283" height="704" alt="image" src="https://github.com/user-attachments/assets/0930ad2b-0ea9-44dc-9297-c977be0f74d6" />
+
 ## Running the test on Chromium
 - npx playwright test --project=chromium
 
