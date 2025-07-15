@@ -47,5 +47,9 @@ test.describe('Balsam Hill Assessment', () => {
     // Validate product title and price consistency between product and cart pages
     expect(cartProductPrice).toBe(productPrice);
 
+    //validate cart badge count
+    await balsamCartPage.validateCartCount('1');
+    await balsamCartPage.deleteCartItem(cartProductName);
+    await balsamCartPage.assertRemovalConfirmationDialogWith(cartProductName);
   });
 });
