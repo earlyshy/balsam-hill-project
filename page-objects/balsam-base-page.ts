@@ -16,6 +16,6 @@ export class BalsamBasePage {
 
     async waitForPageLoad(): Promise<void> {
         await this.page.waitForLoadState('domcontentloaded');
-        await this.page.waitForLoadState('networkidle');
+
     }
 }
