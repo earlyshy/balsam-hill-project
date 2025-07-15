@@ -1,0 +1,347 @@
+# Page snapshot
+
+```yaml
+- banner:
+  - link "Enable Accessibility":
+    - /url: "#"
+  - button "Pause":
+    - img "Pause"
+  - text: Shop Now, Pay Later with PayPal and Afterpay
+  - link "logo":
+    - /url: https://www.balsamhill.com/
+    - img "logo"
+  - search:
+    - form:
+      - searchbox "Search": Christmas Tree
+      - button "Search":
+        - img "Search"
+      - button "Close Dialog": 
+  - button "United States"
+  - list:
+    - listitem:
+      - link "Track Order":
+        - /url: https://www.balsamhill.com/order/status
+    - listitem:
+      - link "My account":
+        - /url: https://www.balsamhill.com/
+    - listitem:
+      - link "Wishlist 0 items":
+        - /url: https://www.balsamhill.com/favorites
+    - listitem:
+      - link "Cart undefined items":
+        - /url: https://www.balsamhill.com/cart
+  - navigation "Global menu":
+    - list:
+      - listitem:
+        - link "Artificial Christmas Trees":
+          - /url: https://www.balsamhill.com/c/artificial-christmas-trees
+      - listitem:
+        - link "Wreaths":
+          - /url: https://www.balsamhill.com/c/wreaths
+      - listitem:
+        - link "Garlands":
+          - /url: https://www.balsamhill.com/c/garlands
+      - listitem:
+        - link "Greenery & Flowers":
+          - /url: https://www.balsamhill.com/c/greenery-and-flowers
+      - listitem:
+        - link "Seasonal Décor":
+          - /url: https://www.balsamhill.com/c/decor
+      - listitem:
+        - link "Storage":
+          - /url: https://www.balsamhill.com/c/storage-and-accessories
+      - listitem:
+        - link "July Christmas Sale":
+          - /url: https://www.balsamhill.com/c/artificial-christmas-trees-wreaths-garlands-foliage-home-decor-on-sale?pageSize=48
+  - paragraph:
+    - text: Save up to 50% + Free Shipping * Christmas Sale in JulyStarts Now
+    - link "Shop Sale, Save up to 50% + Free Shipping *":
+      - /url: https://www.balsamhill.com/c/artificial-christmas-trees-wreaths-garlands-foliage-home-decor-on-sale?pageSize=48
+      - text: Shop Sale
+- text: Your browser does not support the video tag.
+- button "Pause video"
+- paragraph: "-Holly Jolly July-"
+- paragraph: Ready, Set, Save
+- heading "Christmas Sale in July" [level=1]
+- paragraph: Up To 50% Off
+- paragraph: Plus, Free Shipping.*
+- link "Shop Trees on Sale":
+  - /url: https://www.balsamhill.com/c/artificial-christmas-trees?pageSize=48
+- link "Shop All Sale":
+  - /url: https://www.balsamhill.com/c/artificial-christmas-trees-wreaths-garlands-foliage-home-decor-on-sale?pageSize=48
+- heading "Shop Early, Be Merry" [level=2]
+- list:
+  - listitem:
+    - link "Shop Best-Selling Trees< Shop Best-Selling Trees":
+      - /url: /c/best-selling-artificial-christmas-trees
+      - img "Shop Best-Selling Trees<"
+      - text: Shop Best-Selling Trees
+  - listitem:
+    - link "Shop Trees Under $499 Shop Trees Under $499":
+      - /url: /c/artificial-christmas-trees-under-499
+      - img "Shop Trees Under $499"
+      - text: Shop Trees Under $499
+  - listitem:
+    - link "Shop Flip Trees Shop Flip Trees":
+      - /url: /c/easy-setup-artificial-christmas-flip-trees
+      - img "Shop Flip Trees"
+      - text: Shop Flip Trees
+- link "5-Star Favorite Classic Blue Spruce® \"10/10! Lucky I saw the Christmas in July sale and got a pretty good deal.\" – E. from GEORGIA Shop Now":
+  - /url: /f/classic-blue-spruce-artificial-christmas-trees?sku=2809419
+  - heading "5-Star Favorite" [level=2]
+  - paragraph:
+    - text: Classic Blue Spruce
+    - superscript: ®
+  - paragraph: "\"10/10! Lucky I saw the Christmas in July sale and got a pretty good deal.\" – E. from GEORGIA"
+  - text: Shop Now
+- heading "Meet Balsam Hill" [level=2]
+- paragraph: Sharing Joy Since 2006
+- img "Rated 5 out of 5 stars":
+  - img
+  - img
+  - img
+  - img
+  - img
+- paragraph: 60,000+ 5-Star Reviews
+- paragraph: 3 Million Customers Worldwide
+- text: Your browser does not support the video tag.
+- button "Pause video"
+- heading "Why You’ll Love Our Trees" [level=2]
+- paragraph: Inspired by nature. Crafted with quality. Designed for ease.
+- link "Shop Christmas Trees":
+  - /url: /c/artificial-christmas-trees?pageSize=48
+- heading "What Sets Us Apart" [level=2]
+- list:
+  - listitem:
+    - img "Committed to quality"
+    - heading "Committed to Quality" [level=3]
+    - paragraph: We offer the widest selection of premium, realistic trees—handcrafted with care and designed to last.
+    - link "Find Your Favorite":
+      - /url: /c/artificial-christmas-trees
+  - listitem:
+    - img "Looks so real"
+    - heading "Looks So Real" [level=3]
+    - paragraph: Enjoy the beautiful look of a real tree with needles that are true to nature.
+    - link "Browse Most Realistic Trees":
+      - /url: /c/most-realistic-artificial-christmas-trees
+  - listitem:
+    - img "Pre-lit Convenience"
+    - heading "Pre-lit Convenience" [level=3]
+    - paragraph: Make setting up even easier with professionally hand-strung lighting that's pre-wired and perfectly spaced.
+    - link "See Our Pre-lit Trees":
+      - /url: /c/pre-lit-artificial-christmas-trees
+- link "Backed by a 3-Year Warranty Shop with confidence with our limited warranty for your tree's lights (excluding burned-out bulbs), frame, foliage, hinges, and stand. Learn More":
+  - /url: /help-warranty-information
+  - heading "Backed by a 3-Year Warranty" [level=2]
+  - paragraph: Shop with confidence with our limited warranty for your tree's lights (excluding burned-out bulbs), frame, foliage, hinges, and stand.
+  - text: Learn More
+- 'heading "Branch Samples: A 5-Star Favorite" [level=2]'
+- img "Rated 5 out of 5 stars":
+  - img
+  - img
+  - img
+  - img
+  - img
+- paragraph: “This makes choosing a tree so easy. I can keep the branches for decorating, and the cost will be applied to the price of the tree.”
+- link "Order Branch Samples":
+  - /url: https://www.balsamhill.com/f/artificial-christmas-tree-branch-sample-kits
+- heading "Fall Finds You'll Love" [level=2]
+- paragraph: It's never too early to bring autumn home—new arrivals are here!
+- link "Shop Fall":
+  - /url: https://www.balsamhill.com/c/all-fall
+- link "Shop Now, Pay Later Buy your favorites now and enjoy flexible payment options at checkout. Learn More List of payment options":
+  - /url: /help-order#faq8
+  - heading "Shop Now, Pay Later" [level=2]
+  - paragraph: Buy your favorites now and enjoy flexible payment options at checkout.
+  - link "Learn More":
+    - /url: /help-order#faq8
+  - list "List of payment options":
+    - listitem:
+      - img "Afterpay"
+    - listitem:
+      - img "Paypal"
+- iframe
+- link "Powered by Emplifi":
+  - /url: https://emplifi.io/solutions/social-commerce
+- text: "BALSAM HILL: YOUR PLACE FOR PREMIUM ARTIFICIAL CHRISTMAS TREES, WREATHS AND GARLANDS"
+- paragraph:
+  - emphasis: "\"In the Christmas-decor-scape, Balsam Hill reigns supreme.\" — New York magazine's The Strategist internet shopping guide"
+- paragraph:
+  - text: Celebrate the magic of Christmas with Balsam Hill trees that come with extraordinary details. Our trees have the beautiful look of real evergreens with lifelike needles that you never have to clean up. Choose from dozens of species, heights, and widths to find the perfect tree for your space and style. With innovative features from built-in lighting and Twinkly
+  - superscript: ®
+  - text: light show to easy setup options, setting up your tree is quick and hassle-free so you can get to the decorating fun faster.
+- paragraph:
+  - text: To make our trees as luxuriously convenient as possible, Balsam Hill offers premium pre-strung lights in clear, multicolored, and our innovative Color+Clear
+  - superscript: ®
+  - text: which allows the owner to choose clear or multicolored lights with the touch of a remote. Finally, an artificial Christmas tree from Balsam Hill has cleverly designed hinged branches and sits atop a lightweight, collapsible stand, making setup and takedown simpler than ever. A tree from Balsam Hill is a perfect complement to your Christmas decorations.
+- paragraph: And with over 50 different styles of pre-lit Christmas trees, pre-lit Christmas wreaths, and pre-lit Christmas garlands, Balsam Hill strives to offer a high-quality product to satisfy any holiday style.
+- button "Read More"
+- dialog "Cookie Banner":
+  - button "Close Dialog": 
+  - paragraph:
+    - text: We use cookies and tracking technologies to make our website easy and meaningful for you, to provide our services, analyze usage, and to deliver personalized advertising. To do this, we share information about your use of our site with our third-party service providers. See our
+    - link "Privacy Policy. Opens another site in a new window":
+      - /url: /help-privacy-and-security
+      - text: Privacy Policy 
+    - text: for more information.
+- heading "Customer Support" [level=2]
+- list:
+  - listitem:
+    - link "FAQ":
+      - /url: https://www.balsamhill.com/help-faq
+  - listitem:
+    - link "Contact Us":
+      - /url: https://www.balsamhill.com/contact-us
+  - listitem:
+    - link "Check Order Status":
+      - /url: https://www.balsamhill.com/order/status
+  - listitem:
+    - link "Shipping & Orders":
+      - /url: https://www.balsamhill.com/help-tracking-shipping
+  - listitem:
+    - link "Returns & Exchange":
+      - /url: https://www.balsamhill.com/help-order#returnexchangepolicy
+  - listitem:
+    - link "Warranty":
+      - /url: https://www.balsamhill.com/help-warranty-information
+  - listitem:
+    - link "Email Preferences":
+      - /url: https://www.balsamhill.com/help-customer-service#email
+  - listitem:
+    - link "Request a Catalog":
+      - /url: https://www.balsamhill.com/catalog-request-form
+  - listitem:
+    - link "Catalog Unsubscribe":
+      - /url: https://www.balsamhill.com/catalog-unsubscribe-request
+  - listitem:
+    - link "Do Not Sell My Personal Info":
+      - /url: https://www.balsamhill.com/do-not-sell-my-personal-information
+  - listitem:
+    - link "Business Sales":
+      - /url: https://www.balsamhill.com/business-sales
+  - listitem:
+    - link "Submit a Review":
+      - /url: https://www.balsamhill.com/balsam-hill-reviews-form
+  - listitem:
+    - link "Accessibility Statement":
+      - /url: https://www.balsamhill.com/accessibility-statement
+  - listitem:
+    - link "Promotion Details":
+      - /url: https://www.balsamhill.com/terms-and-conditions
+  - listitem:
+    - link "Avoiding Fraud":
+      - /url: https://www.balsamhill.com/scam-pages
+- heading "Resources & Ideas" [level=2]
+- list:
+  - listitem:
+    - link "Resource Center":
+      - /url: https://www.balsamhill.com/inspiration
+  - listitem:
+    - link "Tree Buyer's Guide":
+      - /url: https://www.balsamhill.com/inspiration/how-to-choose-the-right-artificial-tree
+  - listitem:
+    - link "Branch Sample Kit":
+      - /url: https://www.balsamhill.com/inspiration/how-to-choose-an-artificial-christmas-tree-balsam-hill-branch-sample-kit
+  - listitem:
+    - link "Tree Setup & Storage":
+      - /url: https://www.balsamhill.com/inspiration/artificial-christmas-tree-assembly-instructions
+  - listitem:
+    - link "Tree Decorating Ideas":
+      - /url: https://www.balsamhill.com/inspiration/best-christmas-tree-decorating-ideas
+  - listitem:
+    - link "Designs Seen on TV":
+      - /url: https://www.balsamhill.com/c/balsam-hill-products-featured-on-tv
+  - listitem:
+    - link "Blog. Opens another site in a new window":
+      - /url: https://blog.balsamhill.com/b/
+      - text: Blog
+  - listitem:
+    - link "Videos. Opens another site in a new window":
+      - /url: https://www.youtube.com/user/balsamhillvideos
+      - text: Videos
+- heading "Company Information" [level=2]
+- list:
+  - listitem:
+    - link "About Us":
+      - /url: https://www.balsamhill.com/about-us
+  - listitem:
+    - link "The Balsam Hill Difference":
+      - /url: https://www.balsamhill.com/balsam-hill-difference-the-best-artificial-christmas-trees
+  - listitem:
+    - link "Store Locations":
+      - /url: https://www.balsamhill.com/balsam-hill-christmas-tree-and-home-decor-store
+  - listitem:
+    - link "Balsam Hill Studio":
+      - /url: https://www.balsamhill.com/studio
+  - listitem:
+    - link "In the Media":
+      - /url: https://www.balsamhill.com/balsam-hill-in-the-media
+  - listitem:
+    - link "Charitable Giving":
+      - /url: https://www.balsamhill.com/corporate-philanthropy
+  - listitem:
+    - link "Careers. Opens another site in a new window":
+      - /url: https://www.balsambrands.com/?__hstc=18367526.e4b5997d0bf563b230de9fb7b975eafc.1752621174922.1752621174922.1752621174922.1&__hssc=18367526.1.1752621174922&__hsfp=1433061009
+      - text: Careers
+  - listitem:
+    - link "Terms & Privacy":
+      - /url: https://www.balsamhill.com/help-privacy-and-security
+- heading "Get Inspired" [level=2]
+- paragraph: Discover the latest holiday products and decorating styles.
+- paragraph:
+  - text: By subscribing to our email list, you agree to Balsam Hill’s
+  - link "Terms and Conditions":
+    - /url: https://www.balsamhill.com/help-privacy-and-security
+  - text: and
+  - link "Privacy Policy":
+    - /url: https://www.balsamhill.com/help-privacy-and-security
+  - text: .
+- textbox "Email address"
+- button "Sign Up"
+- link "Sign Up for Text Alerts":
+  - /url: https://balsamhill.attn.tv/p/kxw/landing-page
+- heading "Stay Connected" [level=3]
+- link "instagram. Opens another site in a new window":
+  - /url: https://www.instagram.com/BalsamHill/
+  - img "instagram"
+- link "Facebook. Opens another site in a new window":
+  - /url: " https://www.facebook.com/balsamhill"
+  - img "Facebook"
+- link "twitter. Opens another site in a new window":
+  - /url: https://twitter.com/BalsamHill
+  - img "twitter"
+- link "youtube. Opens another site in a new window":
+  - /url: https://www.youtube.com/user/balsamhillvideos
+  - img "youtube"
+- link "pininterest. Opens another site in a new window":
+  - /url: https://www.pinterest.com/balsamhill/
+  - img "pininterest"
+- heading "For Expert Advice" [level=3]
+- paragraph:
+  - text: Call
+  - link "1.888.55.BALSAM":
+    - /url: tel:18885522572
+  - text: ", Text"
+  - link "1.650.855.8663":
+    - /url: sms:16508558663
+  - text: ", or"
+  - link "Contact Us":
+    - /url: /contact-us
+- heading "Shop With Confidence" [level=3]
+- link "Trusted Site. Opens another site in a new window":
+  - /url: https://www.trustedsite.com/verify?host=balsamhill.com
+  - img "Trusted Site"
+- link "BBB. Opens another site in a new window":
+  - /url: https://www.bbb.org/us/ca/redwood-city/profile/christmas-tree/balsam-hill-1116-202592#bbbseal
+  - img "Balsam Hill is a Better Business Bureau accredited business with an A+ rating"
+- img "Forbes Seal"
+- img "PayPal"
+- text: "* Shipping outside the contiguous US will incur additional shipping fees. COPYRIGHT © 2025 BALSAM HILL"
+- superscript: ®
+- text: ALL RIGHTS RESERVED.
+- alert
+- region "Live chat":
+  - button "Live chat":
+    - img "Live chat"
+- iframe
+```

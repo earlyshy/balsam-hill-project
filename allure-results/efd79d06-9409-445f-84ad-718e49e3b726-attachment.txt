@@ -1,0 +1,12 @@
+Product index validation failed, fallback to search by product name text: Error: Product name mismatch. Expected to include "Christmas Tree", but got "BH Balsam Fir® Narrow Tree"
+    at BalsamHomePage.validateProductCardByIndex (/Users/hv66s/automation-assesment/assessment-balsam/balsam-assessment/page-objects/balsam-home-page.ts:81:19)
+    at BalsamHomePage.clickProductTitle (/Users/hv66s/automation-assesment/assessment-balsam/balsam-assessment/page-objects/balsam-home-page.ts:105:38)
+    at /Users/hv66s/automation-assesment/assessment-balsam/balsam-assessment/tests/example.spec.ts:24:5
+    at /Users/hv66s/automation-assesment/assessment-balsam/balsam-assessment/node_modules/playwright/lib/worker/workerMain.js:304:9
+    at /Users/hv66s/automation-assesment/assessment-balsam/balsam-assessment/node_modules/playwright/lib/worker/testInfo.js:289:11
+    at TimeoutManager.withRunnable (/Users/hv66s/automation-assesment/assessment-balsam/balsam-assessment/node_modules/playwright/lib/worker/timeoutManager.js:67:14)
+    at TestInfoImpl._runWithTimeout (/Users/hv66s/automation-assesment/assessment-balsam/balsam-assessment/node_modules/playwright/lib/worker/testInfo.js:287:7)
+    at /Users/hv66s/automation-assesment/assessment-balsam/balsam-assessment/node_modules/playwright/lib/worker/workerMain.js:302:7
+    at WorkerMain._runTest (/Users/hv66s/automation-assesment/assessment-balsam/balsam-assessment/node_modules/playwright/lib/worker/workerMain.js:277:5)
+    at WorkerMain.runTestGroup (/Users/hv66s/automation-assesment/assessment-balsam/balsam-assessment/node_modules/playwright/lib/worker/workerMain.js:193:11)
+    at process.<anonymous> (/Users/hv66s/automation-assesment/assessment-balsam/balsam-assessment/node_modules/playwright/lib/common/process.js:65:22)
